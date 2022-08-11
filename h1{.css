@@ -1,0 +1,43 @@
+h1{
+    color: rgb(18, 9, 90);
+} 
+.red-font {
+    color: red;
+}   
+h2{
+    color: rgb(66, 6, 230);
+}
+h3{
+    color: cadetblue;
+}
+.crimson font { 
+    color: aqua;
+}
+h4{
+    color: yellowgreen;
+}
+h5{color: rgb(48, 6, 48);}
+th, td {
+    border: 1px solid rgba(21, 176, 140, 0.877);
+}
+table {
+    border-collapse: collapse;
+
+    width: 80%;
+    text-align: center;
+}
+h2{color: chartreuse;}
+.p1{
+    font-family: "Times New Roman", "Times", "serif";
+    color: rgba(19, 6, 61, 0.853);
+  } 
+  .p2 {
+    font-family: "Arial", "Helvetica", "sans-serif";
+    color:darkblue;
+  }
+  
+  .p3 {
+    
+    color: darkcyan;
+  }
+  
